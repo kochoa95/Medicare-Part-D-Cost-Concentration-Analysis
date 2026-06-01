@@ -13,11 +13,11 @@ This project specifically uses the 2023 public dataset, “Medicare Part D Presc
 - **Geographic Cost Distribution**: Calculation of brand-to-generic prescription ratios of the highest-selling drug categories by state/territory. This narrows the areas of approach that will result in the highest cost-saving outcomes.
 - **Performance Tracking Framework**: Two core key performance indicators were recommended to monitor savings progress:  Drug Cost Concentration and Generic Substitution Rate.
 
-The SQL queries used to inspect, clean, and perform quality checks for this analysis can be found here.
+The SQL queries used to inspect, clean, and perform quality checks for this analysis can be found [here](https://github.com/kochoa95/Medicare-Part-D-Cost-Concentration-Analysis/blob/main/datacleaningchecks.session.sql).
 
-Targeted queries regarding various business insights can be found here.
+Targeted queries regarding various business insights can be found [here](https://github.com/kochoa95/Medicare-Part-D-Cost-Concentration-Analysis/blob/main/exploratoryanalysis.session.sql).
 
-KPI tracking and performance monitoring queries can be found here.
+KPI tracking and performance monitoring queries can be found [here](https://github.com/kochoa95/Medicare-Part-D-Cost-Concentration-Analysis/blob/main/kpitracking.session.sql).
 
 # Data Structure & Initial Checks
 
@@ -30,8 +30,6 @@ The Medicare Part D prescriber database consists of one main table: **Medicare_
 - **Volume Metrics:** Total claims, prescription counts and patient/beneficiary populations
 
 Prior to beginning the analysis, comprehensive quality control checks were conducted to ensure data integrity and gain familiarity with the dataset structure. These checks validated data completeness, identified potential outliers, and confirmed the dataset's suitability for utilization management analysis.
-
-The SQL queries used to inspect and perform quality checks can be found here.
 
 # Executive Summary
 
