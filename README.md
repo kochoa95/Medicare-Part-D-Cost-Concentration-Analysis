@@ -148,7 +148,7 @@ Generic Claims / (Generic + Brand Claims) × 100
 - Hadlima (immunosuppressants) Achieve 25% within 12 months (+25%)
 - Warfarin (blood thinners): Achieve 25% within 12 months (+8%)
 - Metformin (diabetes): Given current high generic rate, monito
-- Method: ****Target bottom 20% states for intervention
+- **Method**: Target bottom 20% states for intervention
 
 # Caveats, Assumptions, & Limitations
 
