@@ -63,6 +63,11 @@ Analysis of  Medicare Part D data exposed a disproportionately high cost concent
     
     Ozempic (3.3%), Jardiance (3.2%), and Trulicity (2.7%) represent a fundamental shift toward more expensive diabetes treatments, with a combined 9.2% of all prescription drug expenditures and $25.3B+ of the program market. While these drugs may offer clinical advantages, they are prescribed at massive volumes as a first-line treatment despite metformin's (0.09%) proven effectiveness for treating Type 2 diabetes at a fraction of the cost ($10.37 vs $1265.54 average cost per claim).
 
+<p align="center">
+  <img src="[URL](https://public.tableau.com/views/MedicarePartDCostConcentrationAnalysis/CC?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)" width="400">
+</p>
+
+
 ## **2. Price-Volume Inversion Discovery**
 
 - **Extreme Price Gaps Identified.** Analysis revealed price differentials of 61x for blood thinners (Eliquis $862 vs Warfarin $14), 128x for diabetes medications (Ozempic $1,327 vs Metformin $10), and 7x for biologic immunosuppressants (Humira $9231 vs Hadlima $1268) for therapeutically equivalent medications, highlighting fundamental cost structure differences rather than just modest price premiums.
