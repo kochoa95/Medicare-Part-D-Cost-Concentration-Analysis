@@ -43,10 +43,6 @@ Prior to beginning the analysis, comprehensive quality control checks were condu
 
 **Geographic cost patterns identified**: Analysis revealed states and territories with the highest concentration of prescribers with expensive-to-cheap drug ratios, providing targeted intervention strategies for regions driving disproportionate costs and therefore creating the highest savings impact.
 
-Below is an overview page from the Tableau dashboard, along with more examples included throughout the report. The entire interactive dashboard can be viewed here.
-
-((Chart - Tableau dashboard showing key metrics and annual trends))
-
 # Insights Deep Dive
 
 ## **1. Cost Concentration Trends**
