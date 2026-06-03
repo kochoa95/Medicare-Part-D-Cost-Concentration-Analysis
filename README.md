@@ -79,7 +79,7 @@ Analysis of  Medicare Part D data exposed a disproportionately high cost concent
 - **Volume-Price Inversion Pattern.** Expensive drugs consistently capture higher prescription volumes than cheaper alternatives. Eliquis has 21 million prescriptions while warfarin sodium has 5 million, despite the 61x cost difference, indicating systematic market reversal where expensive options became default choices for first-line treatment.
 - **High Price + High Volume = Maximum Impact Pattern.** Identified drugs that represent the worst-case scenario for cost control—premium pricing combined with market dominance, creating opportunities for high-impact intervention strategies.
 
-<img width="1186" height="699" alt="Tableau Price Diff" src="https://github.com/user-attachments/assets/1a4fc1d0-a489-4511-851a-937f2b0ab0f6" />
+<img width="900" height="699" alt="Tableau Price Diff" src="https://github.com/user-attachments/assets/1a4fc1d0-a489-4511-851a-937f2b0ab0f6" />
 
 
 ## **3. The $12.5B Savings Calculation Discovery**
@@ -89,7 +89,7 @@ Analysis of  Medicare Part D data exposed a disproportionately high cost concent
 - **Specific Drug Target Quantification.** Analysis identified exact savings opportunities: Eliquis → Warfarin ($4.5B), Ozempic/Jardiance/Trulicity → Metformin ($6.6B), and Humira → Hadlima ($1.3B), providing actionable intervention targets with quantified financial impact.
 - **Mathematical Reality of Price Differentials.** Discovery that savings potential scales with price gaps rather than volume alone. Because expensive drugs cost 7-128x more, even modest switching rates generate substantial financial impact regardless of conservative clinical assumptions.
 
-<img width="949" height="659" alt="Tableau Savings Potential" src="https://github.com/user-attachments/assets/af7281d7-506a-4ae6-beb8-95f07466fb74" />
+<img width="949" height="500" alt="Tableau Savings Potential" src="https://github.com/user-attachments/assets/af7281d7-506a-4ae6-beb8-95f07466fb74" />
 
 ## **4. Prescriber Behavior Pattern Analysis**
 
