@@ -79,7 +79,7 @@ Analysis of  Medicare Part D data exposed a disproportionately high cost concent
 - **Volume-Price Inversion Pattern.** Expensive drugs consistently capture higher prescription volumes than cheaper alternatives. Eliquis has 21 million prescriptions while warfarin sodium has 5 million, despite the 61x cost difference, indicating systematic market reversal where expensive options became default choices for first-line treatment.
 - **High Price + High Volume = Maximum Impact Pattern.** Identified drugs that represent the worst-case scenario for cost control—premium pricing combined with market dominance, creating opportunities for high-impact intervention strategies.
 
-<img width="900" height="600" alt="Tableau Price Diff" src="https://github.com/user-attachments/assets/1a4fc1d0-a489-4511-851a-937f2b0ab0f6" />
+<img width="800" height="550" alt="Tableau Price Diff" src="https://github.com/user-attachments/assets/1a4fc1d0-a489-4511-851a-937f2b0ab0f6" />
 
 
 ## **3. The $12.5B Savings Calculation Discovery**
