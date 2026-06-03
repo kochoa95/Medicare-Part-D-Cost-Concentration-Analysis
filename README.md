@@ -67,12 +67,6 @@ Analysis of  Medicare Part D data exposed a disproportionately high cost concent
 
 <img width="1415" height="653" alt="Tableau Top 10 Concentration" src="https://github.com/user-attachments/assets/f04ddfd1-ef17-41ce-9ec0-b7033ecb062f" />
 
-
-<p align="center">
-  <img src="https://public.tableau.com/views/MedicarePartDCostConcentrationAnalysis/CC?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
-</p>
-
-
 ## **2. Price-Volume Inversion Discovery**
 
 - **Extreme Price Gaps Identified.** Analysis revealed price differentials of 61x for blood thinners (Eliquis $862 vs Warfarin $14), 128x for diabetes medications (Ozempic $1,327 vs Metformin $10), and 7x for biologic immunosuppressants (Humira $9231 vs Hadlima $1268) for therapeutically equivalent medications, highlighting fundamental cost structure differences rather than just modest price premiums.
@@ -81,7 +75,6 @@ Analysis of  Medicare Part D data exposed a disproportionately high cost concent
 
 <p align="center"><img width="800" height="550" alt="Tableau Price Diff" src="https://github.com/user-attachments/assets/1a4fc1d0-a489-4511-851a-937f2b0ab0f6" /></p>
 
-
 ## **3. The $12.5B Savings Calculation Discovery**
 
 - **Conservative Methodology Validation.** Even a conservative 25% patient switching assumption (leaving 75% on more expensive drugs) to account for clinical contraindications, treatment failures, and implementation challenges, still displays identified massive savings potentials.
@@ -89,14 +82,14 @@ Analysis of  Medicare Part D data exposed a disproportionately high cost concent
 - **Specific Drug Target Quantification.** Analysis identified exact savings opportunities: Eliquis → Warfarin ($4.5B), Ozempic/Jardiance/Trulicity → Metformin ($6.6B), and Humira → Hadlima ($1.3B), providing actionable intervention targets with quantified financial impact.
 - **Mathematical Reality of Price Differentials.** Discovery that savings potential scales with price gaps rather than volume alone. Because expensive drugs cost 7-128x more, even modest switching rates generate substantial financial impact regardless of conservative clinical assumptions.
 
-<img width="800" height="550" alt="Tableau Savings Potential" src="https://github.com/user-attachments/assets/af7281d7-506a-4ae6-beb8-95f07466fb74" />
+<p align="center"><img width="800" height="550" alt="Tableau Savings Potential" src="https://github.com/user-attachments/assets/af7281d7-506a-4ae6-beb8-95f07466fb74" /></p>
 
 ## **4. Prescriber Behavior Pattern Analysis**
 
 - **Geographic Prescription Ratio Disparities**: Analysis exposed states and areas that have the highest expensive-to-cheap prescription ratios for Eliquis:Warfarin (as high as >6:1) and Humira:Hadlima (as high as >2000:1). No strong evidence of regional trends. Given lack of demographic data, this could suggest a myriad of potential issues, including local practice norms, pharmacy benefits management penetration disparities, provider network issues, etc.
 - **Ratio-Based Targeting Strategy:** From a utilization management perspective, analysis of the State Generic Substitution Rate (see KPI’s below) narrows the areas of approach that would result in the highest cost-saving outcomes.
 
-The link to a tree maps dashboard for top drug categories (blood thinners, diabetes medications, biologic immunosuppressants) with more detailed metrics can be viewed here.
+The link to a tree maps dashboard for top drug categories (blood thinners, diabetes medications, biologic immunosuppressants) with more detailed metrics can be viewed [here](https://public.tableau.com/views/MedicarePartDCostConcentrationAnalysis/TM?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 # KPI’s & Recommendations
 
