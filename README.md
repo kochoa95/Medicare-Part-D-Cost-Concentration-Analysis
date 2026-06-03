@@ -22,6 +22,8 @@ KPI tracking and performance monitoring queries can be found [here](https://git
 # Data Structure & Initial Checks
 
 The Medicare Part D prescriber database consists of one main table: **Medicare_PartD**, containing  **116k rows** and **22 fields.**
+<img width="1055" height="330" alt="ERD" src="https://github.com/user-attachments/assets/2bc7fd46-f901-4174-b538-945e77a9f740" />
+
 **Key Data Components:**
 
 - **Prescriber Information:** Provider metrics and geographic distribution
