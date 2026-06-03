@@ -65,6 +65,9 @@ Analysis of  Medicare Part D data exposed a disproportionately high cost concent
     
     Ozempic (3.3%), Jardiance (3.2%), and Trulicity (2.7%) represent a fundamental shift toward more expensive diabetes treatments, with a combined 9.2% of all prescription drug expenditures and $25.3B+ of the program market. While these drugs may offer clinical advantages, they are prescribed at massive volumes as a first-line treatment despite metformin's (0.09%) proven effectiveness for treating Type 2 diabetes at a fraction of the cost ($10.37 vs $1265.54 average cost per claim).
 
+<img width="1415" height="653" alt="Tableau Top 10 Concentration" src="https://github.com/user-attachments/assets/f04ddfd1-ef17-41ce-9ec0-b7033ecb062f" />
+
+
 <p align="center">
   <img src="https://public.tableau.com/views/MedicarePartDCostConcentrationAnalysis/CC?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
 </p>
@@ -76,12 +79,18 @@ Analysis of  Medicare Part D data exposed a disproportionately high cost concent
 - **Volume-Price Inversion Pattern.** Expensive drugs consistently capture higher prescription volumes than cheaper alternatives. Eliquis has 21 million prescriptions while warfarin sodium has 5 million, despite the 61x cost difference, indicating systematic market reversal where expensive options became default choices for first-line treatment.
 - **High Price + High Volume = Maximum Impact Pattern.** Identified drugs that represent the worst-case scenario for cost control—premium pricing combined with market dominance, creating opportunities for high-impact intervention strategies.
 
+<img width="1186" height="699" alt="Tableau Price Diff" src="https://github.com/user-attachments/assets/1a4fc1d0-a489-4511-851a-937f2b0ab0f6" />
+
+
 ## **3. The $12.5B Savings Calculation Discovery**
 
 - **Conservative Methodology Validation.** Even a conservative 25% patient switching assumption (leaving 75% on more expensive drugs) to account for clinical contraindications, treatment failures, and implementation challenges, still displays identified massive savings potentials.
 - **Sensitivity Analysis Robustness.** Testing revealed savings potential ranges from $12.5B (20% switch) to $25B (50% switch), demonstrating that even if switching assumptions are overly optimistic, savings remain enormous due to extreme price differentials.
 - **Specific Drug Target Quantification.** Analysis identified exact savings opportunities: Eliquis → Warfarin ($4.5B), Ozempic/Jardiance/Trulicity → Metformin ($6.6B), and Humira → Hadlima ($1.3B), providing actionable intervention targets with quantified financial impact.
 - **Mathematical Reality of Price Differentials.** Discovery that savings potential scales with price gaps rather than volume alone. Because expensive drugs cost 7-128x more, even modest switching rates generate substantial financial impact regardless of conservative clinical assumptions.
+
+<img width="1393" height="653" alt="Tableau Savings Potential" src="https://github.com/user-attachments/assets/2bed5f3f-9114-4b11-b2bd-8599ebfdb181" />
+
 
 ## **4. Prescriber Behavior Pattern Analysis**
 
